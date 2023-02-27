@@ -10,7 +10,7 @@ The following are the participants who took part in the AI Winter School:
 
 ### Beginner group:  February 21st, 2023 2:00 pm - 4:00 pm
 
-![Object Detection](./Biginners.png?raw=true)
+![Beginner group](./Biginners.png?raw=true)
 
 
 The Beginner group consists of students who are new to the field of data science. During their studies, they were tasked with applying their knowledge to four interesting data sets. They analyzed the datasets and performed all the processes of predicting through machine learning models, and wrote a Colab, an interactive python tool for sharing this process and results. The following are the results of their presentations and the information about the Colab.
@@ -25,7 +25,7 @@ The Beginner group consists of students who are new to the field of data science
 
 ### Advanced group: February 22nd, 2023 2:00 pm - 4:00 pm
 
-![Object Detection](https://example.com/object_detection.jpg)
+![Advanced group](./Advanced.png?raw=true)
 
 
 The Advanced group consists of students who have prior experience with data science. They were asked to prepare and present a practical session for the Beginner group during the AI Winter School. During the self-study period, they explored and presented topics of their own interest.
