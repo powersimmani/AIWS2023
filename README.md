@@ -44,3 +44,5 @@ The AI Winter School was a great success, and all participants gained valuable e
 ## Acknowledgments
 
 We would like to thank our instructors and mentors for their valuable guidance and support throughout the school. We would also like to thank our sponsors for their generous support.
+
+## References
