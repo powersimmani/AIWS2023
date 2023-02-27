@@ -19,8 +19,8 @@ The Beginner group consists of students who are new to the field of data science
 |---|---|---|---|
 | Minjae Chung | Pima Indians Diabetes Dataset | [Link](https://example.com/) | [Colab link](https://example.com/) |
 | Dongin Moon | Boston house price dataset | [Link](https://docs.google.com/presentation/d/1UBSmXoj5nECZki0xY8XiZuGJ5M2PSC4N/edit?usp=share_link&ouid=101633548124306174896&rtpof=true&sd=true) | [Colab link](https://colab.research.google.com/drive/1bx61CfoTBFOiVThImOkGsZkTe9UtJIhj?usp=sharing#scrollTo=65VwawWn1MTf) |
-| Yujin Kim | Wine quality dataset | [Link](https://example.com/) | [Colab link](https://example.com/) |
-| Jiwon Im | Wheat seeds dataset | [Link](https://example.com/) | [Colab link](https://colab.research.google.com/drive/1fyddGSGNTsZd8ZNwZvbOnOq5qEb3cxCu#scrollTo=XKquURHzCPK_) |
+| Yujin Kim | Wine quality dataset | [Link](https://example.com/) | [Colab link](https://colab.research.google.com/drive/1fyddGSGNTsZd8ZNwZvbOnOq5qEb3cxCu#scrollTo=XKquURHzCPK_) |
+| Jiwon Im | Wheat seeds dataset | [Link](https://example.com/) | [Colab link][https://example.com/] |
 
 
 ### Advanced group: February 22nd, 2023 2:00 pm - 4:00 pm
