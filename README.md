@@ -4,11 +4,9 @@ This repository contains the results of the AI Winter School, which was held fro
 
 
 
-## Participants
-
 The following are the participants who took part in the AI Winter School:
 
-### Beginner group:  February 21st, 2023 2:00 pm - 4:00 pm
+## Beginner group:  February 21st, 2023 2:00 pm - 4:00 pm
 
 ![Beginner group](./Biginners.png?raw=true)
 
@@ -23,7 +21,7 @@ The Beginner group consists of students who are new to the field of data science
 | Jiwon Im | Wheat seeds dataset | [Link](https://docs.google.com/presentation/d/1ZL21xC5dGHbDlXwWT18WkHK-lS53PvAs/edit?usp=share_link&ouid=101633548124306174896&rtpof=true&sd=true) | [Colab link](https://colab.research.google.com/drive/1cieX2LOsrgfG33rACMZwCkWJFf6MOoAn?usp=sharing) |
 
 
-### Advanced group: February 22nd, 2023 2:00 pm - 4:00 pm
+## Advanced group: February 22nd, 2023 2:00 pm - 4:00 pm
 
 ![Advanced group](./Advanced.png?raw=true)
 
