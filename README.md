@@ -32,10 +32,10 @@ The Advanced group consists of students who have prior experience with data scie
 
 |  | Practical session  | Self study |
 |---|---|---|
-| Gang Hyun Kim | [Reinforcement learning](https://example.com/) | [Reinforcement learning](https://example.com/) |
-| Jong Bum Won | [Self & unsupervised learning](https://example.com/) | [Self & unsupervised learning](https://example.com/) |
-| Jin Sung Oh | [Reinforcement learning](https://example.com/) | [Reinforcement learning](https://example.com/) |
-| Yejin Lee | [Diffusion network](https://example.com/) | [Diffusion network](https://example.com/) |
+| Gang Hyun Kim | [Artificial neural network with numpy](https://docs.google.com/presentation/d/1NC0m9CGLiyM3-BkfdhA_cuImxs7XYNEC/edit?usp=share_link&ouid=101633548124306174896&rtpof=true&sd=true) | [Reinforcement learning](https://example.com/) |
+| Jong Bum Won | [Convolutional neural network](https://docs.google.com/presentation/d/1ozVi-X_dxRuFZns-DDqgY1chgtkT7F0H/edit?usp=share_link&ouid=101633548124306174896&rtpof=true&sd=true) | [Self & unsupervised learning](https://example.com/) |
+| Jin Sung Oh | [Reinforcement learning](https://docs.google.com/presentation/d/1-OWIQHGT8lHRaxU4cSQpLcj2Oyu6hNEH/edit?usp=share_link&ouid=101633548124306174896&rtpof=true&sd=true) | [Reinforcement learning](https://example.com/) |
+| Yejin Lee | [Sharpley additive exPlanations (SHAP)](https://docs.google.com/presentation/d/15GQhyZSJBO_NWt8m5O9nUR8a6Jju0-DW/edit?usp=share_link&ouid=101633548124306174896&rtpof=true&sd=true) | [Diffusion network](https://example.com/) |
 
 ## Conclusion
 
