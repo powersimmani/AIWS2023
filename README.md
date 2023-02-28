@@ -38,8 +38,7 @@ The AI Winter School was a great success, and all participants gained valuable e
 
 ## Acknowledgments
 
-This program is funded by center for bioSystems and Biotech Data Science and Student Intensive Research Training Program (IRTP) in Ghent University Global Campus
-
+We would like to express our gratitude to the Center for Biosystems and Biotech Data Science for providing the funding for this program. Additionally, we would like to extend our appreciation to the Student Intensive Research Training Program (IRTP) in the Academic Affairs team.
 ## References
 
 Most of the images used in this introduction were created through [DALL·E 2](https://openai.com/product/dall-e-2).
