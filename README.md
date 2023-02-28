@@ -1,10 +1,7 @@
 # GUGC AI Winter School 2023
 
-This repository contains the results of the AI Winter School, which was held from January 4th to January 22nd, 2023. The school had eight participants who worked on various projects related to artificial intelligence. Below is a summary of the projects, including links to their presentations and colab notebooks.
+This repository contains the results of the AI Winter School, which was held from January 4th to January 22nd, 2023. The school had eight participants who worked on various projects related to artificial intelligence. Below is a summary of their projects, including links to their presentations and colab notebooks.
 
-
-
-The following are the participants who took part in the AI Winter School:
 
 ## Beginner group:  February 21st, 2023 2:00 pm - 4:00 pm
 
