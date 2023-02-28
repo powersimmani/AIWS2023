@@ -3,7 +3,7 @@
 This repository contains the results of the AI Winter School, which was held from January 4th to January 22nd, 2023. The school had eight participants who worked on various projects related to artificial intelligence. Below is a summary of their projects, including links to their presentations and colab notebooks.
 
 
-## Beginner group: Self study with real-world datasets
+## Beginner group: self study with real-world datasets
 
 ![Beginner group](./Biginners.png?raw=true)
 
@@ -18,7 +18,7 @@ The Beginner group consists of students who are new to the field of data science
 | Jiwon Im | Wheat seeds dataset | [Link](https://docs.google.com/presentation/d/1ZL21xC5dGHbDlXwWT18WkHK-lS53PvAs/edit?usp=share_link&ouid=101633548124306174896&rtpof=true&sd=true) | [Colab link](https://colab.research.google.com/drive/1cieX2LOsrgfG33rACMZwCkWJFf6MOoAn?usp=sharing) |
 
 
-## Advanced group: Self study with Tredy/interesting AI topics
+## Advanced group: self study with tredy/interesting AI topics
 
 ![Advanced group](./Advanced.png?raw=true)
 
