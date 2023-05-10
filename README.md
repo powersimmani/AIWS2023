@@ -14,7 +14,7 @@ The Beginner group consists of students who are new to the field of data science
 |---|---|---|---|
 | Minjae Chung | Pima Indians Diabetes Dataset | [Link](https://docs.google.com/presentation/d/1LjrlKDR2Q2foAKprmz9x9M6ORA0IsY_S/edit?usp=share_link&ouid=101633548124306174896&rtpof=true&sd=true/) | [Colab link](https://colab.research.google.com/drive/1Gv6GZE0Vp_kUNenrUidNISXqgij3ElSz#scrollTo=429dPW_-rOxd) |
 | Dongin Moon | Boston house price dataset | [Link](https://docs.google.com/presentation/d/1UBSmXoj5nECZki0xY8XiZuGJ5M2PSC4N/edit?usp=share_link&ouid=101633548124306174896&rtpof=true&sd=true) | [Colab link](https://colab.research.google.com/drive/1bx61CfoTBFOiVThImOkGsZkTe9UtJIhj?usp=sharing#scrollTo=65VwawWn1MTf) |
-| Yujin Kim | Wine quality dataset | [Link](https://docs.google.com/presentation/d/1feb8zLfKKg9DMdz-6PK7rX1UlvaKnWIz/edit?usp=share_link&ouid=101633548124306174896&rtpof=true&sd=true) | [Colab link](https://colab.research.google.com/drive/1fyddGSGNTsZd8ZNwZvbOnOq5qEb3cxCu#scrollTo=XKquURHzCPK_) |
+| Yujin Kim | Wine quality dataset | [Link](https://docs.google.com/presentation/d/1feb8zLfKKg9DMdz-6PK7rX1UlvaKnWIz/edit?usp=share_link&ouid=101633548124306174896&rtpof=true&sd=true) | [Colab link](https://colab.research.google.com/drive/12t4h_rXh62VWBP5DeW4owGuj881awzv4?hl=ko) |
 | Jiwon Im | Wheat seeds dataset | [Link](https://docs.google.com/presentation/d/1ZL21xC5dGHbDlXwWT18WkHK-lS53PvAs/edit?usp=share_link&ouid=101633548124306174896&rtpof=true&sd=true) | [Colab link](https://colab.research.google.com/drive/1cieX2LOsrgfG33rACMZwCkWJFf6MOoAn?usp=sharing) |
 
 
